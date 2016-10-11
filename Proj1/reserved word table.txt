@@ -1,0 +1,22 @@
+RESERVED-WORD TOKEN-TYPE ATTRIBUTE
+if 1
+then 2
+else 3
+program 4
+var 5
+array 6
+of 7
+integer 8
+real 9
+function 10
+procedure 11
+begin 12
+end 13
+assignop 14
+while 15
+do 16
+addop 17
+mulop 18
+num 19
+not 20
+
